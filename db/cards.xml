@@ -1,0 +1,4189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <cards>
+    <card>
+      <name>The Coin</name>
+      <set muId="GAME_005">Token</set>
+      <manacost>0</manacost>
+      <type>Spell - Mana</type>
+      <text>Gain 1 Mana Crystal this turn only.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mana Crystal</name>
+      <set muId="mana_crystal">Token</set>
+      <manacost/>
+      <type>Mana</type>
+      <text>Tap for 1 mana. Add an additional mana crystal and refill at the beginning of your turn. You may have at most 10 mana crystals.</text>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Malfurion Stormrage</name>
+      <set muId="HERO_06">Druid</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: +1 Attack this turn. +1 Armor.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Rexxar</name>
+      <set muId="HERO_05">Hunter</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Deal 2 damage to the enemy hero.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Jaina Proudmoore</name>
+      <set muId="HERO_08">Mage</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Deal 1 damage.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Uther the Lightbringer</name>
+      <set muId="HERO_04">Paladin</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Summon a 1/1 Silver Hand Recruit.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Silver Hand Recruit</name>
+      <set muId="CS2_101t">Paladin</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Anduin Wrynn</name>
+      <set muId="HERO_09">Priest</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Restore 2 Health.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Valeera Sanguinar</name>
+      <set muId="HERO_03">Rogue</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Equip a 1/2 Dagger.
+(Equips Wicked Knife.)</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Wicked Knife</name>
+      <set muId="CS2_082">Rogue</set>
+      <manacost>1</manacost>
+      <type>Hero Weapon</type>
+      <text/>
+      <pt>1/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Thrall</name>
+      <set muId="HERO_02">Shaman</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Summon a random Totem.
+(Summons Healing Totem, Searing Totem, Stoneclaw Totem or Wrath of Air Totem.)</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Healing Totem</name>
+      <set muId="NEW1_009">Shaman</set>
+      <manacost>1</manacost>
+      <type>Hero Minion - Totem</type>
+      <text>At the end of your turn, restore 1 Health to all friendly characters.</text>
+      <pt>0/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Searing Totem</name>
+      <set muId="CS2_050">Shaman</set>
+      <manacost>1</manacost>
+      <type>Hero Minion - Totem</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stoneclaw Totem</name>
+      <set muId="CS2_051">Shaman</set>
+      <manacost>1</manacost>
+      <type>Hero Minion - Totem</type>
+      <text>Taunt</text>
+      <pt>0/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wrath of Air Totem</name>
+      <set muId="CS2_052">Shaman</set>
+      <manacost>1</manacost>
+      <type>Hero Minion - Totem</type>
+      <text>Spell Damage +1</text>
+      <pt>0/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gul'dan</name>
+      <set muId="HERO_07">Warlock</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Draw a card and take 2 damage.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Garrosh Hellscream</name>
+      <set muId="HERO_01">Warrior</set>
+      <manacost/>
+      <type>Hero</type>
+      <text>Hero Power: Gain 2 Armor.</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Abomination</name>
+      <set muId="EX1_097">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Taunt. Deathrattle: Deal 2 damage to ALL characters.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abusive Sergeant</name>
+      <set muId="CS2_188">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a minion +2 Attack this turn.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Acidic Swamp Ooze</name>
+      <set muId="EX1_066">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Destroy your opponent's weapon.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Acolyte of Pain</name>
+      <set muId="EX1_007">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever this minion takes damage, draw a card.</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Al'Akir the Windlord</name>
+      <set muId="NEW1_010">Shaman</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>Windfury, Charge, Divine Shield, Taunt.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alarm-O-Bot</name>
+      <set muId="EX1_006">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, swap this minion with a random one in your hand.</text>
+      <pt>0/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aldor Peacekeeper</name>
+      <set muId="EX1_382">Paladin</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Change an enemy minion's Attack to 1.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alexstrasza</name>
+      <set muId="EX1_561">Neutral</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>Battlecry: Set a hero's remaining Health to 15.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Amani Berserker</name>
+      <set muId="EX1_393">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Enrage: +3 Attack</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ancestral Healing</name>
+      <set muId="CS2_041">Shaman</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Restore a minion to full Health and give it Taunt.</text>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Ancestral Spirit</name>
+      <set muId="CS2_038">Shaman</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give a minion "Deathrattle: Resummon this minion."</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ancient Brewmaster</name>
+      <set muId="EX1_057">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Return a friendly minion from the battlefield to your hand.</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ancient Mage</name>
+      <set muId="EX1_584">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give adjacent minions Spell Damage +1.</text>
+      <pt>2/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ancient of Lore</name>
+      <set muId="NEW1_008">Druid</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text>Choose One - Draw 2 cards; or Restore 5 Health.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ancient of War</name>
+      <set muId="EX1_178">Druid</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text>Choose One - +5 Attack; or +5 Health and Taunt.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ancient Watcher</name>
+      <set muId="EX1_045">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Can't Attack.</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angry Chicken</name>
+      <set muId="EX1_009">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Enrage: +5 Attack.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Animal Companion</name>
+      <set muId="NEW1_031">Hunter</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Summon a random Beast Companion.
+(Summons Huffer, Leokk or Misha.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Huffer</name>
+      <set muId="NEW1_034">Animal Companion</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Charge</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Leokk</name>
+      <set muId="NEW1_033">Animal Companion</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Other friendly minions have +1 Attack.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Misha</name>
+      <set muId="NEW1_032">Animal Companion</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Taunt</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Anub'ar Ambusher</name>
+      <set muId="FP1_026">Rogue Naxx</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Return a random friendly minion ot your hand.</text>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arathi Weaponsmith</name>
+      <set muId="EX1_398">Warrior</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Equip a 2/2 weapon.
+(Summons Battle Axe.)</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Battle Axe</name>
+      <set muId="EX1_398t">Token</set>
+      <manacost>1</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Arcane Explosion</name>
+      <set muId="CS2_025">Mage</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to all enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Arcane Golem</name>
+      <set muId="EX1_089">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Charge, Battlecry: Give your opponent a Mana Crystal.</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcane Intellect</name>
+      <set muId="CS2_023">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Draw 2 cards.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Arcane Missiles</name>
+      <set muId="EX1_277">Mage</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage randomly split among enemy characters.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Arcane Shot</name>
+      <set muId="DS1_185">Hunter</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Arcanite Reaper</name>
+      <set muId="CS2_112">Warrior</set>
+      <manacost>5</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>5/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Archmage</name>
+      <set muId="CS2_155">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Spell Damage +1</text>
+      <pt>4/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Archmage Antonidas</name>
+      <set muId="EX1_559">Mage</set>
+      <manacost>7</manacost>
+      <type>Legendary Minion</type>
+      <text>Whenever you cast a spell, add a 'Fireball' spell into your hand.</text>
+      <pt>5/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Argent Commander</name>
+      <set muId="EX1_067">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Charge, Divine Shield</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Argent Protector</name>
+      <set muId="EX1_362">Paladin</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a friendly minion Divine Shield.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Argent Squire</name>
+      <set muId="EX1_008">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Divine Shield</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Armorsmith</name>
+      <set muId="EX1_402">Warrior</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Whenever a friendly minion takes damage, gain 1 Armor.</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Assassin's Blade</name>
+      <set muId="CS2_080">Rogue</set>
+      <manacost>5</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>3/4</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Assassinate</name>
+      <set muId="CS2_076">Rogue</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Destroy an enemy minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Auchenai's Soulpriest</name>
+      <set muId="EX1_591">Priest</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Your cards and powers that restore Health now deal damage instead.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Avenge</name>
+      <set muId="FP1_020">Paladin Naxx</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Secret: When one of your minions dies, give a random friendly minion +3/+2.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Avenging Wrath</name>
+      <set muId="EX1_384">Paladin</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Deal 8 damage randomly split among enemy characters.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Azure Drake</name>
+      <set muId="EX1_284">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion - Dragon</type>
+      <text>Spell Damage +1. Battlecry: Draw a card.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Backstab</name>
+      <set muId="CS2_072">Rogue</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to an undamaged minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Bane of Doom</name>
+      <set muId="EX1_320">Warlock</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to a character. If that kills it, summon a random Demon.
+(Summons Dread Infernal, Succubus, Voidwalker, Blood Imp, Flame Imp or Felguard.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Baron Geddon</name>
+      <set muId="EX1_249">Neutral</set>
+      <manacost>7</manacost>
+      <type>Legendary Minion</type>
+      <text>At the end of your turn, deal 2 damage to ALL other characters.</text>
+      <pt>7/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baron Rivendare</name>
+      <set muId="FP1_031">Neutral Naxx</set>
+      <manacost>4</manacost>
+      <type>Legendary Minion</type>
+      <text>Your minions trigger their Deathrattles twice.</text>
+      <pt>1/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Battle Rage</name>
+      <set muId="EX1_392">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Draw a card for each damaged friendly character.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Bestial Wrath</name>
+      <set muId="EX1_549">Hunter</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a Beast +2 Attack and Immune this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Betrayal</name>
+      <set muId="EX1_126">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Force an enemy minion to deal its damage to the minions next to it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Big Game Hunter</name>
+      <set muId="EX1_005">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Destroy a minion with an Attack of 7 or more.</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bite</name>
+      <set muId="EX1_570">Druid</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Give your hero +4 Attack this turn and 4 Armor.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blade Flurry</name>
+      <set muId="CS2_233">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Destroy your weapon and deal its damage to all enemies.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blessed Champion</name>
+      <set muId="EX1_355">Paladin</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Double a minion's Attack.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blessing of Kings</name>
+      <set muId="CS2_092">Paladin</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Give a minion +4/+4.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blessing of Might</name>
+      <set muId="CS2_087">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion +3 Attack.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blessing of Wisdom</name>
+      <set muId="EX1_363">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Choose a minion. Whenever it attacks, draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blizzard</name>
+      <set muId="CS2_028">Mage</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to all enemy minions and Freeze them.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Blood Imp</name>
+      <set muId="CS2_059">Warlock</set>
+      <manacost>1</manacost>
+      <type>Minion - Demon</type>
+      <text>Stealth. At the end of your turn, give another random friendly minion +1 Health.</text>
+      <pt>0/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blood Knight</name>
+      <set muId="EX1_590">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: All minions lose Divine Shield. Gain +3/+3 for each Shield lost.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodfen Raptor</name>
+      <set muId="CS2_172">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodlust</name>
+      <set muId="CS2_046">Shaman</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Give your minions +3 Attack this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Bloodmage Thalnos</name>
+      <set muId="EX1_012">Neutral</set>
+      <manacost>2</manacost>
+      <type>Legendary Minion</type>
+      <text>Spell Damage +1. Deathrattle: Draw a card.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodsail Corsair</name>
+      <set muId="NEW1_025">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Pirate</type>
+      <text>Battlecry: Remove 1 Durability from your opponent's weapon.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodsail Raider</name>
+      <set muId="NEW1_018">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Pirate</type>
+      <text>Battlecry: Gain Attack equal to the Attack of your weapon.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bluegill Warrior</name>
+      <set muId="CS2_173">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Murloc</type>
+      <text>Charge</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Booty Bay Bodyguard</name>
+      <set muId="CS2_187">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boulderfist Ogre</name>
+      <set muId="CS2_200">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>6/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brawl</name>
+      <set muId="EX1_407">Warrior</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Destroy all minions except one. (chosen randomly)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Cabal Shadow Priest</name>
+      <set muId="EX1_091">Priest</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Take control of an enemy minion that has 2 or less Attack.</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cairne Bloodhoof</name>
+      <set muId="EX1_110">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion</type>
+      <text>Deathrattle: Summon a 4/5 Baine Bloodhoof.</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baine Bloodhoof</name>
+      <set muId="EX1_110t">Token</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Captain Greenskin</name>
+      <set muId="NEW1_024">Neutral</set>
+      <manacost>5</manacost>
+      <type>Legendary Minion - Pirate</type>
+      <text>Battlecry: Give your weapon +1/+1.</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Captain's Parrot</name>
+      <set muId="NEW1_016">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text>Battlecry: Put a random Pirate from your deck into your hand.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cenarius</name>
+      <set muId="EX1_573">Druid</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion</type>
+      <text>Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt.
+(Summons two Treant Sentinel.)</text>
+      <pt>5/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Treant Sentinel</name>
+      <set muId="EX1_573t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Charge</name>
+      <set muId="CS2_103">Warrior</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Give a friendly minion +2 Attack and Charge.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Chillwind Yeti</name>
+      <set muId="CS2_182">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Circle of Healing</name>
+      <set muId="EX1_621">Priest</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Restore 4 Health to ALL minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Claw</name>
+      <set muId="CS2_005">Druid</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give your hero +2 Attack this turn and 2 Armor.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Cleave</name>
+      <set muId="CS2_114">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to two random enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Cold Blood</name>
+      <set muId="CS2_073">Rogue</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion +2 Attack. Combo: +4 Attack instead.</text>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Coldlight Oracle</name>
+      <set muId="EX1_050">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Murloc</type>
+      <text>Battlecry: Each player draws 2 cards.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Coldlight Seer</name>
+      <set muId="EX1_103">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Murloc</type>
+      <text>Battlecry: Give ALL other Murlocs +2 Health.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Commanding Shout</name>
+      <set muId="NEW1_036">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Your minions can't be reduced below 1 Health this turn. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Conceal</name>
+      <set muId="EX1_128">Rogue</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give your minions stealth until your next turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Cone of Cold</name>
+      <set muId="EX1_275">Mage</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Freeze a minion and the minions next to it, and deal 1 damage to them.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Consecration</name>
+      <set muId="CS2_093">Paladin</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to all enemies.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Core Hound</name>
+      <set muId="CS2_201">Neutral</set>
+      <manacost>7</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>9/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Corruption</name>
+      <set muId="CS2_063">Warlock</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Choose an enemy minion. At the start of your turn, destroy it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Counterspell</name>
+      <set muId="EX1_287">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When your opponent casts a spell, Counter it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Crazed Alchemist</name>
+      <set muId="EX1_059">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Swap the Attack and Health of a minion.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cruel Taskmaster</name>
+      <set muId="EX1_603">Warrior</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 1 damage to a minion and give it +2 Attack.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cult Master</name>
+      <set muId="EX1_595">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Whenever one of your other minions dies, draw a card.</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dalaran Mage</name>
+      <set muId="EX1_582">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Spell Damage +1</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dancing Swords</name>
+      <set muId="FP1_029">Neutral Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Your opponent draws a card.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Cultist</name>
+      <set muId="FP1_023">Priest Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Give a random friendly minion +3 Health.</text>
+      <pt>3/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Iron Dwarf</name>
+      <set muId="EX1_046">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a minion +2 Attack this turn.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Darkscale Healer</name>
+      <set muId="DS1_055">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Restore 2 Health to all friendly characters.</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deadly Poison</name>
+      <set muId="CS2_074">Rogue</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give your weapon +2 Attack.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Deadly Shot</name>
+      <set muId="EX1_617">Hunter</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Destroy a random enemy minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Death's Bite</name>
+      <set muId="FP1_021">Warrior Naxx</set>
+      <manacost>4</manacost>
+      <type>Weapon</type>
+      <text>Deathrattle: Deal 1 damage to all minions.</text>
+      <pt>4/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Deathlord</name>
+      <set muId="FP1_009">Neutral Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Taunt. Deathrattle: Your opponent puts a minion from their deck into the battlefield.</text>
+      <pt>2/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deathwing</name>
+      <set muId="NEW1_030">Neutral</set>
+      <manacost>10</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>Battlecry: Destroy all other minions and discard your hand.</text>
+      <pt>12/12</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Defender of Argus</name>
+      <set muId="EX1_093">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give adjacent minions +1/+1 and Taunt.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Defias Ringleader</name>
+      <set muId="EX1_131">Rogue</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Combo: Summon a 2/1 Defias Bandit.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Defias Bandit</name>
+      <set muId="EX1_131t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demolisher</name>
+      <set muId="EX1_102">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, deal 2 damage to a random enemy.</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demonfire</name>
+      <set muId="EX1_596">Warlock</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to a minion. If it's a friendly Demon, give it +2/+2 instead.</text>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Dire Wolf Alpha</name>
+      <set muId="EX1_162">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text>Adjacent minions have +1 Attack.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Divine Favor</name>
+      <set muId="EX1_349">Paladin</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Draw cards until you have as many in hand as your opponent.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Divine Spirit</name>
+      <set muId="CS2_236">Priest</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Double a minion's Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Doomguard</name>
+      <set muId="EX1_310">Warlock</set>
+      <manacost>5</manacost>
+      <type>Minion - Demon</type>
+      <text>Charge. Battlecry: Discard two random cards.</text>
+      <pt>5/7</pt>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Doomhammer</name>
+      <set muId="EX1_567">Shaman</set>
+      <manacost>5</manacost>
+      <type>Weapon</type>
+      <text>Windury. Overload: (2)</text>
+      <pt>2/8</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Doomsayer</name>
+      <set muId="NEW1_021">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, destroy ALL minions.</text>
+      <pt>0/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragonling Mechanic</name>
+      <set muId="EX1_025">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Summon a 2/1 Mechanical Dragonling.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mechanical Dragonling</name>
+      <set muId="EX1_025t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drain Life</name>
+      <set muId="CS2_061">Warlock</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage. Restore 2 Health to your hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Dread Corsair</name>
+      <set muId="NEW1_022">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion - Pirate</type>
+      <text>Taunt. Costs (1) less per Attack of your weapon.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dread Infernal</name>
+      <set muId="CS2_064">Warlock</set>
+      <manacost>6</manacost>
+      <type>Minion - Demon</type>
+      <text>Battlecry: Deal 1 damage to ALL other characters.</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Druid of the Claw</name>
+      <set muId="EX1_165">Druid</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Choose One - Charge; or +2 Health and Taunt.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Duplicate</name>
+      <set muId="FP1_018">Mage Naxx</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When a friendly minion dies, put 2 copies of it into your hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Dust Devil</name>
+      <set muId="EX1_243">Shaman</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Windfury. Overload: (2)</text>
+      <pt>3/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eaglehorn Bow</name>
+      <set muId="EX1_536">Hunter</set>
+      <manacost>3</manacost>
+      <type>Weapon</type>
+      <text>Whenever a friendly Secret is revealed, gain +1 Durability.</text>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Earth Elemental</name>
+      <set muId="EX1_250">Shaman</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Taunt. Overlord: (3)</text>
+      <pt>7/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Shock</name>
+      <set muId="EX1_245">Shaman</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Silence a minion, then deal 1 Damage to it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Earthen Ring Farseer</name>
+      <set muId="CS2_117">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Restore 3 Health.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Echoing Ooze</name>
+      <set muId="FP1_003">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Summon an exact copy of this minion at the end of the turn.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Edwin Vancleef</name>
+      <set muId="EX1_613">Rogue</set>
+      <manacost>3</manacost>
+      <type>Legendary Minion</type>
+      <text>Combo: Gain +2/+2 for each card played earlier this turn.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elven Archer</name>
+      <set muId="CS2_189">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 1 damage.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emperor Cobra</name>
+      <set muId="EX1_170">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Destroy any minion damaged by this minion.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Equality</name>
+      <set muId="EX1_619">Paladin</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Change the Health of ALL minions to 1.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ethereal Arcanist</name>
+      <set muId="EX1_274">Mage</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>If you control a Secret at the end of your turn, gain +2/+2.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eviscerate</name>
+      <set muId="EX1_124">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage. Combo: Deal 4 damage instead.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Execute</name>
+      <set muId="CS2_108">Warrior</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Destroy a damaged enemy minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Explosive Shot</name>
+      <set muId="EX1_537">Hunter</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Deal 5 damage to a minion and 2 damage to adjacent ones.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Explosive Trap</name>
+      <set muId="EX1_610">Hunter</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Secret: Whenever your hero is attacked, deal 2 damage to all enemies.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Eye for an Eye</name>
+      <set muId="EX1_132">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Secret: When your hero takes damage, deal that much damage to the enemy hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Faceless Manipulator</name>
+      <set muId="EX1_564">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Choose a minion and become a copy of it.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Dragon</name>
+      <set muId="NEW1_023">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Can't be targeted by Spells or Hero Powers.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fan of Knives</name>
+      <set muId="EX1_129">Rogue</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to all enemy minions. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Far Sight</name>
+      <set muId="CS2_053">Shaman</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Draw a card. That card costs (3) less.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Felguard</name>
+      <set muId="EX1_301">Warlock</set>
+      <manacost>3</manacost>
+      <type>Minion - Demon</type>
+      <text>Taunt. Battlecry: Destroy one of your Mana Crystals.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fen Creeper</name>
+      <set muId="CS1_069">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>3/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Feral Spirit</name>
+      <set muId="EX1_248">Shaman</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Summon two 2/3 Spirit Wolves with Taunt. Overload: (2)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Spirit Wolf</name>
+      <set muId="EX1_tk11">Token</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Feugen</name>
+      <set muId="FP1_015">Neutral Naxx</set>
+      <manacost>5</manacost>
+      <type>Legendary Minion</type>
+      <text>Deathrattle: If Stalagg also died this game, summon Thaddius.</text>
+      <pt>4/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thaddius</name>
+      <set muId="FP1_014t">Token Naxx</set>
+      <manacost>10</manacost>
+      <type>Legendary Minion</type>
+      <text/>
+      <pt>11/11</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fiery War Axe</name>
+      <set muId="CS2_106">Warrior</set>
+      <manacost>2</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Fire Elemental</name>
+      <set muId="CS2_042">Shaman</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 3 damage.</text>
+      <pt>6/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fireball</name>
+      <set muId="CS2_029">Mage</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 6 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Flame Imp</name>
+      <set muId="EX1_319">Warlock</set>
+      <manacost>1</manacost>
+      <type>Minion - Demon</type>
+      <text>Battlecry: Deal 3 damage to your hero.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flamestrike</name>
+      <set muId="CS2_032">Mage</set>
+      <manacost>7</manacost>
+      <type>Spell</type>
+      <text>Deal 4 damage to all enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Flametongue Totem</name>
+      <set muId="EX1_565">Shaman</set>
+      <manacost>2</manacost>
+      <type>Minion - Totem</type>
+      <text>Adjacent Minions have +2 Attack.</text>
+      <pt>0/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flare</name>
+      <set muId="EX1_544">Hunter</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>All minions lose Stealth. Destroy all enemy Secrets. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Flesheating Ghoul</name>
+      <set muId="tt_004">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever a minion dies, gain +1 Attack.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Force of Nature</name>
+      <set muId="EX1_571">Druid</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Summon three 2/2 Treants with Charge that die at the end of the turn.
+(Summons three Treant Uprise.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Treant Uprise</name>
+      <set muId="EX1_tk9">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Charge. At the end of the turn, destroy this minion.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forked Lightning</name>
+      <set muId="EX1_251">Shaman</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to 2 random enemy minions. Overload: (2)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Freezing Trap</name>
+      <set muId="EX1_611">Hunter</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Frost Elemental</name>
+      <set muId="EX1_283">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Freeze a character.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Frost Nova</name>
+      <set muId="CS2_026">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Freeze all enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Frost Shock</name>
+      <set muId="CS2_037">Shaman</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to an enemy character and Freeze it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Frostbolt</name>
+      <set muId="CS2_024">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage to a character and Freeze it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Frostwolf Grunt</name>
+      <set muId="CS2_121">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Frostwolf Warlord</name>
+      <set muId="CS2_226">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Frothing Berserker</name>
+      <set muId="EX1_604">Warrior</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever a minion takes damage, gain +1 Attack.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gadgetzan Auctioneer</name>
+      <set muId="EX1_095">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>When you cast a spell, draw a card.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gelbin Mekkatorque</name>
+      <set muId="EX1_112">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Summon an AWESOME invention.
+(Summons Emboldener 3000, Homing Chicken, Poultryizer or Repair Bot.)</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emboldener 3000</name>
+      <set muId="Mekka3">Invention</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, give a random minion +1/+1.</text>
+      <pt>0/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Homing Chicken</name>
+      <set muId="Mekka1">Invention</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, destroy this minion and draw 3 cards.</text>
+      <pt>0/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poultryizer</name>
+      <set muId="Mekka4">Invention</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, transform a random minion into a 1/1 Chicken.</text>
+      <pt>0/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chicken</name>
+      <set muId="Mekka4t">Token</set>
+      <manacost>0</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Repair Bot</name>
+      <set muId="Mekka2">Invention</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, restore 6 Health to a damaged characters.</text>
+      <pt>0/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gladiator's Longbow</name>
+      <set muId="DS1_188">Hunter</set>
+      <manacost>7</manacost>
+      <type>Weapon</type>
+      <text>Your hero is Immune while attacking.</text>
+      <pt>5/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Gnomish Inventor</name>
+      <set muId="CS2_147">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Draw a card.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goldshire Footman</name>
+      <set muId="CS1_042">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gorehowl</name>
+      <set muId="EX1_411">Warrior</set>
+      <manacost>7</manacost>
+      <type>Weapon</type>
+      <text>Attacking a minion costs 1 Attack instead of 1 Durability.</text>
+      <pt>7/1</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Grimscale Oracle</name>
+      <set muId="EX1_508">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Murloc</type>
+      <text>ALL other Murlocs have +1 Attack.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Grommash Hellscream</name>
+      <set muId="EX1_414">Warrior</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>Charge. Enrage: +6 Attack.</text>
+      <pt>4/9</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gruul</name>
+      <set muId="NEW1_038">Neutral</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>At the end of each turn, gain +1/+1.</text>
+      <pt>7/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guardian of Kings</name>
+      <set muId="CS2_088">Paladin</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Restore 6 Health to your hero.</text>
+      <pt>5/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gurubashi Berserker</name>
+      <set muId="EX1_399">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Whenever this minion takes damage, gain +3 Attack.</text>
+      <pt>2/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hammer of Wrath</name>
+      <set muId="CS2_094">Paladin</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hand of Protection</name>
+      <set muId="EX1_371">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion Divine Shield.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Harrison Jones</name>
+      <set muId="EX1_558">Neutral</set>
+      <manacost>5</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Harvest Golem</name>
+      <set muId="EX1_556">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Summon a 2/1 Damaged Golem</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Damaged Golem</name>
+      <set muId="skele21">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Haunted Creeper</name>
+      <set muId="FP1_002">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Summon two 1/1 Spectral Spiders.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spectral Spider</name>
+      <set muId="FP1_002t">Token Naxx</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Headcrack</name>
+      <set muId="EX1_137">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to the enemy hero. Combo: Return this card to your hand next turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Healing Touch</name>
+      <set muId="CS2_007">Druid</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Restore 8 Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hellfire</name>
+      <set muId="CS2_062">Warlock</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage to ALL characters.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Heroic Strike</name>
+      <set muId="CS2_105">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give your hero +4 Attack this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hex</name>
+      <set muId="EX1_246">Shaman</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Transform a minion into a 0/1 Frog with Taunt.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Frog</name>
+      <set muId="hexfrog">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>0/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hogger</name>
+      <set muId="NEW1_040">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, summon a 2/2 Gnoll with Taunt.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gnoll</name>
+      <set muId="NEW1_040t">Token</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy Fire</name>
+      <set muId="EX1_624">Priest</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Deal 5 Damage. Restore 5 Hearth to your hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Holy Light</name>
+      <set muId="CS2_089">Paladin</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Restore 6 Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Holy Nova</name>
+      <set muId="CS1_112">Priest</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to all enemies. Restore 2 Health to all friendly characters.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Holy Smite</name>
+      <set muId="CS1_130">Priest</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Holy Wrath</name>
+      <set muId="EX1_365">Paladin</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Draw a card and deal damage equal to its cost.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Houndmaster</name>
+      <set muId="DS1_070">Hunter</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a friendly Beast +2/+2 and Taunt.</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Humility</name>
+      <set muId="EX1_360">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Change a minion's Attack to 1.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hungry Crab</name>
+      <set muId="NEW1_017">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Battlecry: Destroy a Murloc and gain +2/+2.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hunter's Mark</name>
+      <set muId="CS2_084">Hunter</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Change a minion's Health to 1.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ice Barrier</name>
+      <set muId="EX1_289">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: As soon as your hero is attacked, gain 8 Armor.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ice Block</name>
+      <set muId="EX1_295">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When your hero takes fatal damage, prevent it and become Immune this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ice Lance</name>
+      <set muId="CS2_031">Mage</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Freeze a character. If it was already Frozen, deal 4 damage instead.</text>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Illidan Stormrage</name>
+      <set muId="EX1_614">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion - Demon</type>
+      <text>Whenever you play a card, summon a 2/1 Flame of Azzinoth.</text>
+      <pt>7/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flame of Azzinoth</name>
+      <set muId="EX1_614t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Imp Master</name>
+      <set muId="EX1_597">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.</text>
+      <pt>1/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Imp</name>
+      <set muId="EX1_598">Token</set>
+      <manacost>1</manacost>
+      <type>Minion - Demon</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Injured Blademaster</name>
+      <set muId="CS2_181">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 4 damage to HIMSELF.</text>
+      <pt>4/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inner Fire</name>
+      <set muId="CS1_129">Priest</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Change a minion's Attack to be equal to its Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Inner Rage</name>
+      <set muId="EX1_607">Warrior</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to a minion and give it +2 Attack.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Innervate</name>
+      <set muId="EX1_169">Druid</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Gain 2 Mana Crystals this turn only.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ironbark Protector</name>
+      <set muId="CS2_232">Druid</set>
+      <manacost>8</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ironbeak Owl</name>
+      <set muId="CS2_203">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Silence a minion.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ironforge Rifleman</name>
+      <set muId="CS2_141">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 1 damage.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ironfur Grizzly</name>
+      <set muId="CS2_125">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Taunt</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jungle Panther</name>
+      <set muId="EX1_017">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Stealth</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Keeper of the Grove</name>
+      <set muId="EX1_166">Druid</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Choose One - Deal 2 damage; or Silence a minion.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kel'Thuzad</name>
+      <set muId="FP1_013">Neutral Naxx</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>At the end of each turn, summon all friendly minions that died this turn.</text>
+      <pt>6/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kidnapper</name>
+      <set muId="NEW1_005">Rogue</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Combo: Return a minion to its owner's hand.</text>
+      <pt>5/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kill Command</name>
+      <set muId="EX1_539">Hunter</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage. If you have a Beast, deal 5 damage instead.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>King Krush</name>
+      <set muId="EX1_543">Hunter</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Beast</type>
+      <text>Charge</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Mukla</name>
+      <set muId="EX1_014">Neutral</set>
+      <manacost>3</manacost>
+      <type>Legendary Minion - Beast</type>
+      <text>Battlecry: Give your opponent 2 Bananas.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bananas</name>
+      <set muId="EX1_014t">Token</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion +1/+1.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Kirin Tor Mage</name>
+      <set muId="EX1_612">Mage</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: The next Secret you play this turn costs (0).</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Knife Juggler</name>
+      <set muId="NEW1_019">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>After you summon a minion, deal 1 damage to a random enemy.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kobold Geomancer</name>
+      <set muId="CS2_142">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Spell Damage +1</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kor'kron Elite</name>
+      <set muId="NEW1_011">Warrior</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Charge</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lava Burst</name>
+      <set muId="EX1_241">Shaman</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 5 damage. Overload: (2)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Lay on Hands</name>
+      <set muId="EX1_354">Paladin</set>
+      <manacost>8</manacost>
+      <type>Spell</type>
+      <text>Restore 8 Health. Draw 3 cards.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Leeroy Jenkins</name>
+      <set muId="EX1_116">Neutral</set>
+      <manacost>4</manacost>
+      <type>Legendary Minion</type>
+      <text>Charge. Battlecry: Summon two 1/1 Whelps for your opponent.</text>
+      <pt>6/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Whelp</name>
+      <set muId="EX1_116t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Leper Gnome</name>
+      <set muId="EX1_029">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Deal 2 damage to the enemy hero.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Light's Justice</name>
+      <set muId="CS2_091">Paladin</set>
+      <manacost>1</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>1/4</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Lightning Bolt</name>
+      <set muId="EX1_238">Shaman</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage. Overload: (1)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Lightning Storm</name>
+      <set muId="EX1_259">Shaman</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 2-3 damage to all enemy minions. Overload: (2)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Lightspawn</name>
+      <set muId="EX1_335">Priest</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>This minion's Attack is always equal to its Health.</text>
+      <pt>0/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lightwarden</name>
+      <set muId="EX1_001">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Whenever a character is healed, gain +2 Attack.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lightwell</name>
+      <set muId="EX1_341">Priest</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, restore 3 Health to a damaged friendly character.</text>
+      <pt>0/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Loatheb</name>
+      <set muId="FP1_030">Neutral Naxx</set>
+      <manacost>5</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Enemy spells cost (5) more next turn.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Loot Hoarder</name>
+      <set muId="EX1_096">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Draw a card.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lord Jaraxxus</name>
+      <set muId="EX1_323">Warlock</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Demon</type>
+      <text>Battlecry: Destroy your hero and replace him with Lord Jaraxxus.
+(Summons Blood Fury.)
+Hero Power: Summon a 6/6 Infernal.</text>
+      <pt>3/15</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blood Fury</name>
+      <set muId="EX1_323w">Token</set>
+      <manacost>3</manacost>
+      <type>Hero Weapon</type>
+      <text/>
+      <pt>3/8</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Infernal</name>
+      <set muId="EX1_tk34">Token</set>
+      <manacost>6</manacost>
+      <type>Minion - Demon</type>
+      <text/>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lord of the Arena</name>
+      <set muId="CS2_162">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>6/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lorewalker Cho</name>
+      <set muId="EX1_100">Neutral</set>
+      <manacost>2</manacost>
+      <type>Legendary Minion</type>
+      <text>Whenever a player casts a spell, put a copy into the other player's hand.</text>
+      <pt>0/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mad Bomber</name>
+      <set muId="EX1_082">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 3 damage randomly split between all other characters.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mad Scientist</name>
+      <set muId="FP1_004">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Put a Secret from your deck into the battlefield.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Maexxna</name>
+      <set muId="FP1_010">Neutral Naxx</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion - Beast</type>
+      <text>Destroy any minion damaged by this minion.</text>
+      <pt>2/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magma Rager</name>
+      <set muId="CS2_118">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>5/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Malygos</name>
+      <set muId="EX1_563">Neutral</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>Spell Damage +5</text>
+      <pt>4/12</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mana Addict</name>
+      <set muId="EX1_055">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Whenever you cast a spell, gain +2 Attack this turn.</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mana Tide Totem</name>
+      <set muId="EX1_575">Shaman</set>
+      <manacost>3</manacost>
+      <type>Minion - Totem</type>
+      <text>At the end of your turn, draw a card.</text>
+      <pt>0/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mana Wraith</name>
+      <set muId="EX1_616">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>ALL minions cost (1) more.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mana Wyrm</name>
+      <set muId="NEW1_012">Mage</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Whenever you cast a spell, gain +1 Attack.</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mark of Nature</name>
+      <set muId="EX1_155">Druid</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Choose One - Give a minion +4 Attack; or +4 Health and Taunt.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mark of the Wild</name>
+      <set muId="CS2_009">Druid</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give a minion Taunt and +2/+2.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mass Dispel</name>
+      <set muId="EX1_626">Priest</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Silence all enemy minions. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Master of Disguise</name>
+      <set muId="NEW1_014">Rogue</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a friendly minion Stealth.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master Swordsmith</name>
+      <set muId="NEW1_037">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, give another random friendly minion +1 Attack.</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Millhouse Manastorm</name>
+      <set muId="NEW1_029">Neutral</set>
+      <manacost>2</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Enemy spells cost (0) next turn.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mind Blast</name>
+      <set muId="DS1_233">Priest</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 5 damage to the enemy hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mind Control</name>
+      <set muId="CS1_113">Priest</set>
+      <manacost>10</manacost>
+      <type>Spell</type>
+      <text>Take control of an enemy minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mind Control Tech</name>
+      <set muId="EX1_085">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: If your opponent has 4 or more minions, take control of one at random.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mind Vision</name>
+      <set muId="CS2_003">Priest</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Put a copy of a random card in your opponent's hand into your hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mindgames</name>
+      <set muId="EX1_345">Priest</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Put a copy of a random minion from your opponent's deck into the battlefield.
+(Puts Shadow of Nothing into the battlefield in the absence of minions.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadow of Nothing</name>
+      <set muId="EX1_345t">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text>Mindgames whiffed! Your opponent had no minions!</text>
+      <pt>0/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mirror Entity</name>
+      <set muId="EX1_294">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When your opponent plays a minion, summon a copy of it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mirror Image</name>
+      <set muId="CS2_027">Mage</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Summon two 0/2 minions with Taunt.
+(Summons two Mirror Image Minion.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mirror Image Minion</name>
+      <set muId="CS2_mirror">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>0/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Misdirection</name>
+      <set muId="EX1_533">Hunter</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Secret: When a character attacks your hero, instead he attacks another random character.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mogu'shan Warden</name>
+      <set muId="EX1_396">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>1/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Molten Giant</name>
+      <set muId="EX1_620">Neutral</set>
+      <manacost>20</manacost>
+      <type>Minion</type>
+      <text>Costs (1) less for each damage your hero has taken.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moonfire</name>
+      <set muId="CS2_008">Druid</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mortal Coil</name>
+      <set muId="EX1_302">Warlock</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to a minion. If that kills it, draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mortal Strike</name>
+      <set muId="EX1_408">Warrior</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 4 damage. If your hero has 12 or less health, deal 6 damage instead. </text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mountain Giant</name>
+      <set muId="EX1_105">Neutral</set>
+      <manacost>12</manacost>
+      <type>Minion</type>
+      <text>Costs (1) less for each other card in your hand.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Multi-shot</name>
+      <set muId="DS1_183">Hunter</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage to two random enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Murloc Raider</name>
+      <set muId="CS2_168">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Murloc</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murloc Tidecaller</name>
+      <set muId="EX1_509">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Murloc</type>
+      <text>Whenever a Murloc is summoned, gain +1 Attack.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murloc Tidehunter</name>
+      <set muId="EX1_506">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Murloc</type>
+      <text>Battlecry: Summon a 1/1 Murloc Scout.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murloc Scout</name>
+      <set muId="EX1_506a">Token</set>
+      <manacost>0</manacost>
+      <type>Minion - Murloc</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murloc Warleader</name>
+      <set muId="EX1_507">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Murloc</type>
+      <text>ALL other Murlocs have +2/+1.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nat Pagle</name>
+      <set muId="EX1_557">Neutral</set>
+      <manacost>2</manacost>
+      <type>Legendary Minion</type>
+      <text>At the start of your turn, you have a 50% chance to draw an extra card.</text>
+      <pt>0/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Naturalize</name>
+      <set muId="EX1_161">Druid</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Destroy a minion. Your opponent draws 2 cards.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Nerub'ar Weblord</name>
+      <set muId="FP1_017">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Minions with Battlecry cost (2) more.</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nerubian Egg</name>
+      <set muId="FP1_007">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Summon a 4/4 Nerubian.</text>
+      <pt>0/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nerubian</name>
+      <set muId="FP1_007t">Token Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nightblade</name>
+      <set muId="EX1_593">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 3 damage to the enemy hero.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noble Sacrifice</name>
+      <set muId="EX1_130">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Secret: When an enemy attacks, summon a 2/1 Defender as the new target.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Defender</name>
+      <set muId="EX1_130a">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Northshire Cleric</name>
+      <set muId="CS2_235">Priest</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Whenever a minion is healed, draw a card.</text>
+      <pt>1/3</pt>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Nourish</name>
+      <set muId="EX1_164">Druid</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Choose One - Gain 2 Mana Crystals; or Draw 3 cards.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Novice Engineer</name>
+      <set muId="EX1_015">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Draw a card.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nozdormu</name>
+      <set muId="EX1_560">Neutral</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>Players only have 15 seconds to take their turns.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oasis Snapjaw</name>
+      <set muId="CS2_119">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>2/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ogre Magi</name>
+      <set muId="CS2_197">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Spell Damage +1</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Old Murk-Eye</name>
+      <set muId="EX1_062">Neutral</set>
+      <manacost>4</manacost>
+      <type>Legendary Minion - Murloc</type>
+      <text>Charge. Has +1 Attack for each other Murloc on the battlefield.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onyxia</name>
+      <set muId="EX1_562">Neutral</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Patient Assassin</name>
+      <set muId="EX1_522">Rogue</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Stealth. Destroy any minion damaged by this minion.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perdition's Blade</name>
+      <set muId="EX1_133">Rogue</set>
+      <manacost>3</manacost>
+      <type>Weapon</type>
+      <text>Battlecry: Deal 1 damage. Combo: Deal 2 damage instead.</text>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Pint-sized Summoner</name>
+      <set muId="EX1_076">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>The first minion you play each turn costs (1) less.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pit Lord</name>
+      <set muId="EX1_313">Warlock</set>
+      <manacost>4</manacost>
+      <type>Minion - Demon</type>
+      <text>Battlecry: Deal 5 damage to your hero.</text>
+      <pt>5/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poison Seeds</name>
+      <set muId="FP1_019">Druid Naxx</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Destroy all minions and summon 2/2 Treants to replace them.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Treant</name>
+      <set muId="EX1_158t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Polymorph</name>
+      <set muId="CS2_022">Mage</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Transform a minion into a 1/1 Sheep.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sheep</name>
+      <set muId="CS2_tk1">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Power of the Wild</name>
+      <set muId="EX1_160">Druid</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Choose One - Give your minions +1/+1; or Summon a 3/2 Panther.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Panther</name>
+      <set muId="EX1_160t">Token</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Power Overwhelming</name>
+      <set muId="EX1_316">Warlock</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a friendly minion +4/+4 until end of turn. Then, It dies. Horribly.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Power Word: Shield</name>
+      <set muId="CS2_004">Priest</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a minion +2 Health. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Preparation</name>
+      <set muId="EX1_145">Rogue</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>The next spell you cast this turn costs (3) less.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Priestess of Elune</name>
+      <set muId="EX1_583">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Restore 4 Health to your hero.</text>
+      <pt>5/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prophet Velen</name>
+      <set muId="EX1_350">Priest</set>
+      <manacost>7</manacost>
+      <type>Legendary Minion</type>
+      <text>Double the damage and healing of your spells and Hero Power.</text>
+      <pt>7/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pyroblast</name>
+      <set muId="EX1_279">Mage</set>
+      <manacost>10</manacost>
+      <type>Spell</type>
+      <text>Deal 10 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Questing Adventurer</name>
+      <set muId="EX1_044">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever you play a card, gain +1/+1.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raging Worgen</name>
+      <set muId="EX1_412">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Enrage: Windfury and +1 Attack</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnaros the Firelord</name>
+      <set muId="EX1_298">Neutral</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>Can't Attack. At the end of your turn, deal 8 damage to the random enemy.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raid Leader</name>
+      <set muId="CS2_122">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Your other minions have +1 Attack.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rampage</name>
+      <set muId="CS2_104">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give a damaged minion +3/+3.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ravenholdt Assassin</name>
+      <set muId="CS2_161">Neutral</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text>Stealth</text>
+      <pt>7/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Razorfen Hunter</name>
+      <set muId="CS2_196">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Summon a 1/1 Boar.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boar</name>
+      <set muId="CS2_boar">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reckless Rocketeer</name>
+      <set muId="CS2_213">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Charge</text>
+      <pt>5/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redemption</name>
+      <set muId="EX1_136">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Secret: When one of your minions dies, return it to life with 1 Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Reincarnate</name>
+      <set muId="FP1_025">Shaman Naxx</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Destroy a minion, then terun it ot life with full Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Repentance</name>
+      <set muId="EX1_379">Paladin</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Secret: When your opponent plays a minion, reduce its Health to 1.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>River Crocolisk</name>
+      <set muId="CS2_120">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rockbiter Weapon</name>
+      <set muId="CS2_045">Shaman</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Give a friendly character +3 Attack this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sacrificial Pact</name>
+      <set muId="NEW1_003">Warlock</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Destroy a Demon. Restore 5 Health to your hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sap</name>
+      <set muId="EX1_581">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Return an enemy minion to your opponent's hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Savage Roar</name>
+      <set muId="CS2_011">Druid</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Give your characters +2 Attack this turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Savagery</name>
+      <set muId="EX1_578">Druid</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal damage equal to your hero's attack to a minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Savannah Highmane</name>
+      <set muId="EX1_534">Hunter</set>
+      <manacost>6</manacost>
+      <type>Minion - Beast</type>
+      <text>Deathrattle: Summon two 2/2 Hyenas.</text>
+      <pt>6/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyena</name>
+      <set muId="EX1_534t">Token</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scarlet Crusader</name>
+      <set muId="EX1_020">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Divine Shield</text>
+      <pt>3/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scavenging Hyena</name>
+      <set muId="EX1_531">Hunter</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text>Whenever a friendly Beast dies, gain +2/+1.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sea Giant</name>
+      <set muId="EX1_586">Neutral</set>
+      <manacost>10</manacost>
+      <type>Minion</type>
+      <text>Cost (1) less for each other minion on the battlefield.</text>
+      <pt>8/8</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Secretkeeper</name>
+      <set muId="EX1_080">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Whenever a Secret a played, gain +1/+1.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sen'jin Shieldmasta</name>
+      <set muId="CS2_179">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sense Demons</name>
+      <set muId="EX1_317">Warlock</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Put 2 random Demons from your deck into your hand.
+(Summons Worthless Imp for each absent Demon.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Worthless Imp</name>
+      <set muId="EX1_317t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion - Demon</type>
+      <text>You are out of demons! At least there are always imps...</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shade of Naxxramas</name>
+      <set muId="FP1_005">Neutral Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Stealth. At the start of your turn, gain +1/+1.</text>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shadow Bolt</name>
+      <set muId="CS2_057">Warlock</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Deal 4 damage to a minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadow Madness</name>
+      <set muId="EX1_334">Priest</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Gain control of an enemy minion with 3 or less Attack until end of turn.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadow Word: Death</name>
+      <set muId="EX1_622">Priest</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Destroy a minion with an Attack of 5 or more.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadow Word: Pain</name>
+      <set muId="CS2_234">Priest</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Destroy a minion with with 3 or less Attack.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadowflame</name>
+      <set muId="EX1_303">Warlock</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Destroy a friendly minion and deal its Attack damage to all enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadowform</name>
+      <set muId="EX1_625">Priest</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shadowstep</name>
+      <set muId="EX1_144">Rogue</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Return a friendly minion to your hand. It costs (2) less.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shattered Sun Cleric</name>
+      <set muId="EX1_019">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a friendly minion +1/+1.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shield Block</name>
+      <set muId="EX1_606">Warrior</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Gain 5 Armor. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shield Slam</name>
+      <set muId="EX1_410">Warrior</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to a minion for each Armor you have.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Shieldbearer</name>
+      <set muId="EX1_405">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>0/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiv</name>
+      <set muId="EX1_278">Rogue</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage. Draw a card</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>SI:7 Agent</name>
+      <set muId="EX1_134">Rogue</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Combo: Deal 2 damage.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silence</name>
+      <set muId="EX1_332">Priest</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Silence a minion.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Silver Hand Knight</name>
+      <set muId="CS2_151">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Summon a 2/2 Squire.</text>
+      <pt>4/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Squire</name>
+      <set muId="CS2_152">Token</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>2/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silverback Patriarch</name>
+      <set muId="CS2_127">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Beast</type>
+      <text>Taunt</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silvermoon Guardian</name>
+      <set muId="EX1_023">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Divine Shield</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sinister Strike</name>
+      <set muId="CS2_075">Rogue</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 3 damage to the enemy hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Siphon Soul</name>
+      <set muId="EX1_309">Warlock</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Destroy a minion. Restore 3 Health to your hero.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Slam</name>
+      <set muId="EX1_391">Warrior</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 2 damage to a minion. If it survives, draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sludge Belcher</name>
+      <set muId="FP1_012">Neutral Naxx</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Taunt. Deathrattle: Summon a 1/2 Slime with Taunt.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Slime</name>
+      <set muId="FP1_012t">Token Naxx</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Snake Trap</name>
+      <set muId="EX1_554">Hunter</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Secret: When one of your minions is attacked, summon three 1/1 Snakes.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Snake</name>
+      <set muId="EX1_554t">Token</set>
+      <manacost>0</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Snipe</name>
+      <set muId="EX1_609">Hunter</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Secret: When your opponent plays a minion, deal 4 damage to it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sorcerer's Apprentice</name>
+      <set muId="EX1_608">Mage</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Your spells costs (1) less.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Soul of the Forest</name>
+      <set muId="EX1_158">Druid</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Give your minions "Deathrattle: Summon a 2/2 Treant."</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Soulfire</name>
+      <set muId="EX1_308">Warlock</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Deal 4 damage. Discard a random card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Southsea Captain</name>
+      <set muId="NEW1_027">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion - Pirate</type>
+      <text>Your other Pirates have +1/+1.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Southsea Deckhand</name>
+      <set muId="CS2_146">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Pirate</type>
+      <text>Has Charge while you have a weapon equipped.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spectral Knight</name>
+      <set muId="FP1_008">Neutral Naxx</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Can't be targeted by spells or Hero Powers.</text>
+      <pt>4/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spellbender</name>
+      <set muId="tt_010">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
+(Summons Spellbender Minion.)</text>
+      <pt>1/3</pt>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Spellbender Minion</name>
+      <set muId="tt_010a">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spellbreaker</name>
+      <set muId="EX1_048">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Silence a minion.</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiteful Smith</name>
+      <set muId="CS2_221">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Enrage: Your weapon has +2 Attack.</text>
+      <pt>4/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sprint</name>
+      <set muId="CS2_077">Rogue</set>
+      <manacost>7</manacost>
+      <type>Spell</type>
+      <text>Draw 4 cards.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Stalagg</name>
+      <set muId="FP1_014">Neutral Naxx</set>
+      <manacost>5</manacost>
+      <type>Legendary Minion</type>
+      <text>Deathrattle: If Feugen also died this game, summon Thaddius.</text>
+      <pt>7/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stampeding Kodo</name>
+      <set muId="NEW1_041">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion - Beast</type>
+      <text>Battlecry: Destroy a random enemy minion with 2 or less Attack.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Starfall</name>
+      <set muId="NEW1_007">Druid</set>
+      <manacost>5</manacost>
+      <type>Spell</type>
+      <text>Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Starfire</name>
+      <set muId="EX1_173">Druid</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Deal 5 damage. Draw a card.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Starving Buzzard</name>
+      <set muId="CS2_237">Hunter</set>
+      <manacost>2</manacost>
+      <type>Minion - Beast</type>
+      <text>Whenever you summon a Beast, draw a card.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stoneskin Gargoyle</name>
+      <set muId="FP1_027">Neutral Naxx</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>At the start of your turn, restore this minion to full Health.</text>
+      <pt>1/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stonetusk Boar</name>
+      <set muId="CS2_171">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Charge</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stormforged Axe</name>
+      <set muId="EX1_247">Shaman</set>
+      <manacost>2</manacost>
+      <type>Weapon</type>
+      <text>Overload: (1)</text>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Stormpike Commando</name>
+      <set muId="CS2_150">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Deal 2 damage.</text>
+      <pt>4/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stormwind Champion</name>
+      <set muId="CS2_222">Neutral</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text>Your other minions have +1/+1.</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stormwind Knight</name>
+      <set muId="CS2_131">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Charge</text>
+      <pt>2/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stranglethorn Tiger</name>
+      <set muId="EX1_028">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion - Beast</type>
+      <text>Stealth</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Succubus</name>
+      <set muId="EX1_306">Warlock</set>
+      <manacost>2</manacost>
+      <type>Minion - Demon</type>
+      <text>Battlecry: Discard a random card.</text>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Summoning Portal</name>
+      <set muId="EX1_315">Warlock</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Your minions cost (2) less, but not less than (1).</text>
+      <pt>0/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sunfury Protector</name>
+      <set muId="EX1_058">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give adjacent minions Taunt.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sunwalker</name>
+      <set muId="EX1_032">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Taunt. Divine Shield</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Swipe</name>
+      <set muId="CS2_012">Druid</set>
+      <manacost>4</manacost>
+      <type>Spell</type>
+      <text>Deal 4 damage to an enemy and 1 damage to all other enemies.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sword of Justice</name>
+      <set muId="EX1_366">Paladin</set>
+      <manacost>3</manacost>
+      <type>Weapon</type>
+      <text>Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.</text>
+      <pt>1/5</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sylvanas Windrunner</name>
+      <set muId="EX1_016">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion</type>
+      <text>Deathrattle: Take control of a random enemy minion.</text>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tauren Warrior</name>
+      <set muId="EX1_390">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Taunt. Enrage: +3 Attack.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Temple Enforcer</name>
+      <set muId="EX1_623">Priest</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Give a friendly minion 3 Health.</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Beast</name>
+      <set muId="EX1_577">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion - Beast</type>
+      <text>Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.</text>
+      <pt>9/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Finkle Einhorn</name>
+      <set muId="EX1_finkle">Token</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Black Knight</name>
+      <set muId="EX1_002">Neutral</set>
+      <manacost>6</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Destroy an enemy minion with Taunt.</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thoughtsteal</name>
+      <set muId="EX1_339">Priest</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Copy 2 cards from your opponent's deck and put them into your hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Thrallmar Farseer</name>
+      <set muId="EX1_021">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Windfury</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Timber Wolf</name>
+      <set muId="DS1_175">Hunter</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Your other Beasts have +1 Attack.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tinkmaster Overspark</name>
+      <set muId="EX1_083">Neutral</set>
+      <manacost>3</manacost>
+      <type>Legendary Minion</type>
+      <text>Battlecry: Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Devilsaur</name>
+      <set muId="EX1_tk29">Token</set>
+      <manacost>5</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>5/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Squirrel</name>
+      <set muId="EX1_tk28">Token</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tirion Fordring</name>
+      <set muId="EX1_383">Paladin</set>
+      <manacost>8</manacost>
+      <type>Legendary Minion</type>
+      <text>Divine Shield. Taunt. Deathrattle: Equip a 5/3 Ashbringer.</text>
+      <pt>6/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ashbringer</name>
+      <set muId="EX1_383t">Token</set>
+      <manacost>5</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>5/3</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Totemic Might</name>
+      <set muId="EX1_244">Shaman</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Give your Totems +2 Health.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Tracking</name>
+      <set muId="DS1_184">Hunter</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Look at the top three cards of your deck.  Draw one and discard the others.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Truesilver Champion</name>
+      <set muId="CS2_097">Paladin</set>
+      <manacost>4</manacost>
+      <type>Weapon</type>
+      <text>Whenever your hero attacks, restore 2 Health to it.</text>
+      <pt>4/2</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Tundra Rhino</name>
+      <set muId="DS1_178">Hunter</set>
+      <manacost>5</manacost>
+      <type>Minion - Beast</type>
+      <text>Your Beasts have Charge.</text>
+      <pt>2/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Twilight Drake</name>
+      <set muId="EX1_043">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion - Dragon</type>
+      <text>Battlecry: Gain +1 Health for each card in your hand.</text>
+      <pt>4/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Twisting Nether</name>
+      <set muId="EX1_312">Warlock</set>
+      <manacost>8</manacost>
+      <type>Spell</type>
+      <text>Destroy all minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Unbound Elemental</name>
+      <set muId="EX1_258">Shaman</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever you play a card with Overload, gain +1/+1.</text>
+      <pt>2/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Undertaker</name>
+      <set muId="FP1_028">Neutral Naxx</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Whenever you summon a minion with Deathrattle, gain +1/+1.</text>
+      <pt>1/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unleash the Hounds</name>
+      <set muId="EX1_538">Hunter</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>For each enemy minion, summon a 1/1 Hound with Charge.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hound</name>
+      <set muId="EX1_538t">Token</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Charge</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unstable Ghoul</name>
+      <set muId="FP1_024">Neutral Naxx</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Taunt. Deathrattle: Deal 1 damage to all minions.</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Upgrade!</name>
+      <set muId="EX1_409">Warrior</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.
+(Summons Heavy Axe.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Heavy Axe</name>
+      <set muId="EX1_409t">Token</set>
+      <manacost>1</manacost>
+      <type>Weapon</type>
+      <text/>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Vanish</name>
+      <set muId="NEW1_004">Rogue</set>
+      <manacost>6</manacost>
+      <type>Spell</type>
+      <text>Return all minions to their owner's hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Vaporize</name>
+      <set muId="EX1_594">Mage</set>
+      <manacost>3</manacost>
+      <type>Spell</type>
+      <text>Secret: When a minion attacks your hero, destroy it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Venture Co. Mercenary</name>
+      <set muId="CS2_227">Neutral</set>
+      <manacost>5</manacost>
+      <type>Minion</type>
+      <text>Your minions cost (3) more.</text>
+      <pt>7/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Violet Teacher</name>
+      <set muId="NEW1_026">Neutral</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Whenever you cast a spell, summon a 1/1 Violet Apprentice.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Violet Apprentice</name>
+      <set muId="NEW1_026t">Token</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Void Terror</name>
+      <set muId="EX1_304">Warlock</set>
+      <manacost>3</manacost>
+      <type>Minion - Demon</type>
+      <text>Battlecry: Destroy the minions on either side of this minion and gain their Attack and Health.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Voidcaller</name>
+      <set muId="FP1_022">Warlock Naxx</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Put a random Demon from your hand into the battlefield.</text>
+      <pt>3/4</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Voidwalker</name>
+      <set muId="CS2_065">Warlock</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Taunt</text>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Voodoo Doctor</name>
+      <set muId="EX1_011">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Restore 2 Health.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wailing Soul</name>
+      <set muId="FP1_016">Neutral Naxx</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Silence your other minions.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>War Golem</name>
+      <set muId="CS2_186">Neutral</set>
+      <manacost>7</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>7/7</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Warsong Commander</name>
+      <set muId="EX1_084">Warrior</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Whenever you summon a minion with 3 or less Attack, give it Charge.</text>
+      <pt>2/3</pt>
+      <tablerow/>
+    </card>
+    <card>
+      <name>Water Elemental</name>
+      <set muId="CS2_033">Mage</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Freeze any character damaged by this minion.</text>
+      <pt>3/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Webspinner</name>
+      <set muId="FP1_011">Hunter Naxx</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Add a random Beast card to your hand.</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Whirlwind</name>
+      <set muId="EX1_400">Warrior</set>
+      <manacost>1</manacost>
+      <type>Spell</type>
+      <text>Deal 1 damage to ALL minions.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Wild Growth</name>
+      <set muId="CS2_013">Druid</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Gain an empty Mana Crystal.
+(Gives Excess Mana if you already have 10 Mana Crystals.)</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Excess Mana</name>
+      <set muId="CS2_013t">Token</set>
+      <manacost>0</manacost>
+      <type>Spell - Mana</type>
+      <text>Draw a card. (You can only have 10 Mana in your tray.)</text>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Wild Pyromancer</name>
+      <set muId="NEW1_020">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>After you cast a spell, deal 1 damage to ALL minions.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Windfury</name>
+      <set muId="CS2_039">Shaman</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Give a minion Windfury.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Windfury Harpy</name>
+      <set muId="EX1_033">Neutral</set>
+      <manacost>6</manacost>
+      <type>Minion</type>
+      <text>Windfury</text>
+      <pt>4/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Windspeaker</name>
+      <set muId="EX1_587">Shaman</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Give a friendly minion Windfury.</text>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wisp</name>
+      <set muId="CS2_231">Neutral</set>
+      <manacost>0</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wolfrider</name>
+      <set muId="CS2_124">Neutral</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Charge</text>
+      <pt>3/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Worgen Infiltrator</name>
+      <set muId="EX1_010">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Stealth</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wrath</name>
+      <set muId="EX1_154">Druid</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.</text>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Young Dragonhawk</name>
+      <set muId="CS2_169">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion - Beast</type>
+      <text>Windfury</text>
+      <pt>1/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Young Priestess</name>
+      <set muId="EX1_004">Neutral</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>At the end of your turn, give another random friendly minion +1 Health.</text>
+      <pt>2/1</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Youthful Brewmaster</name>
+      <set muId="EX1_049">Neutral</set>
+      <manacost>2</manacost>
+      <type>Minion</type>
+      <text>Battlecry: Return a friendly minion from the battlefield to your hand.</text>
+      <pt>3/2</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ysera</name>
+      <set muId="EX1_572">Neutral</set>
+      <manacost>9</manacost>
+      <type>Legendary Minion - Dragon</type>
+      <text>At the end of your turn, draw a Dream Card.
+(Gives Dream, Emerald Drake, Laughing Sister, Nightmare or Ysera Awakens.)</text>
+      <pt>4/12</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dream</name>
+      <set muId="DREAM_04">Dream</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Return a minion to its owner's hand.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Emerald Drake</name>
+      <set muId="DREAM_03">Dream</set>
+      <manacost>4</manacost>
+      <type>Minion</type>
+      <text/>
+      <pt>7/6</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Laughing Sister</name>
+      <set muId="DREAM_01">Dream</set>
+      <manacost>3</manacost>
+      <type>Minion</type>
+      <text>Can't be targeted by Spells or Hero Powers.</text>
+      <pt>3/5</pt>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nightmare</name>
+      <set muId="DREAM_05">Dream</set>
+      <manacost>0</manacost>
+      <type>Spell</type>
+      <text>Give a minion +5/+5. At the start of your next turn, destroy it.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Ysera Awakens</name>
+      <set muId="DREAM_02">Dream</set>
+      <manacost>2</manacost>
+      <type>Spell</type>
+      <text>Deal 5 damage to all characters except Ysera.</text>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Zombie Chow</name>
+      <set muId="FP1_001">Neutral Naxx</set>
+      <manacost>1</manacost>
+      <type>Minion</type>
+      <text>Deathrattle: Restore 5 Health to the enemy hero.</text>
+      <pt>2/3</pt>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
