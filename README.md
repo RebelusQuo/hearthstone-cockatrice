@@ -7,9 +7,9 @@ This project provides assets for utilizing the Cockatrice game application to en
 1. Download and install Cockatrice from [Woogerworks](http://woogerworks.com/).
 1. Clone this repository to a folder of your choosing.
 1. Open the Cockatrice settings. The following paths are relative to the folder containing the cloned repo.
-  1. Change the picture directory to point to the /pics folder.
-  1. Change the card database path to /db/cards.xml, and the token database path to /db/tokens.xml
-  1. Optionally, change the card back to /card_back.jpg
+  - Change the picture directory to point to the /pics folder.
+  - Change the card database path to /db/cards.xml, and the token database path to /db/tokens.xml
+  - Optionally, change the card back to /card_back.jpg
 1. Connect to the woogerworks server to play. (Note that Cockatrice is intended for playing Magic: the Gathering. Arrange games with friends through other means of communication.)
 
 Instead of cloning the repository you can always choose to just download the repository as a zip. However, cloning the repository lets you retrive any updates easily.
@@ -47,6 +47,6 @@ Special thanks to Esk4 which made original art to represent the custom mana crys
 
 This work is in the Public Domain so as to not infringe on any copyright.
 
-I also concur with the disclamer phantasma0000 use at [Hearthstone Port](http://hearthstoneport.wordpress.com/):
+I also concur with the disclamer phantasma0000 uses at [Hearthstone Port](http://hearthstoneport.wordpress.com/):
 
 > This port is designed solely for use of non-commercial testing of decks and gameplay and acts as a virtual solution for those who do not want to print out cards (which has been allowed by Blizzard). This project is not affiliated with Blizzard Entertainment in any way.  The point of this project is not to copy or distribute Blizzard Entertainment materials and will be brought down immediately upon request.
