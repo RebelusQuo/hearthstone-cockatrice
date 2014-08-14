@@ -2229,7 +2229,8 @@
       <set muId="EX1_259">Shaman</set>
       <manacost>3</manacost>
       <type>Spell</type>
-      <text>Deal 2-3 damage to all enemy minions. Overload: (2)</text>
+      <text>Deal 2-3 damage to all enemy minions. Overload: (2)
+(Deals 2 or 3 damage picked randomly for each minion.)</text>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -3998,7 +3999,15 @@ Hero Power: Summon a 6/6 Infernal.</text>
       <set muId="FP1_011">Hunter Naxx</set>
       <manacost>1</manacost>
       <type>Minion</type>
-      <text>Deathrattle: Add a random Beast card to your hand.</text>
+      <text>Deathrattle: Add a random Beast card to your hand.
+(Gives one of the following 28 minions:
+Angry Chicken, Bloodfen Raptor, Captain's Parrot, Core Hound,
+Dire Wolf Alpha, Emperor Cobra, Haunted Creeper, Hungry Crab,
+Ironbeak Owl, Ironfur Grizzly, Jungle Panther, King Krush,
+King Mukla, Maexxna, Oasis Snapjaw, River Crocolisk,
+Savannah Highmane, Scavenging Hyena, Silverback Patriarch, Stampeding Kodo,
+Starving Buzzard, Stonetusk Boar, Stranglethorn Tiger, The Beast,
+Timber Wolf, Tundra Rhino, Webspinner, Young Dragonhawk)</text>
       <pt>1/1</pt>
       <tablerow>2</tablerow>
     </card>
