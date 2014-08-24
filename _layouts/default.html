@@ -15,7 +15,7 @@
   
   <script type="text/javascript">
   $.expr[':'].external = function(elem) {
-    return !elem.href.match(/^mailto\:/) &&
+    return elem.href.match(/^https?:/) &&
       elem.hostname !== location.hostname;
   };
 
