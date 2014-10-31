@@ -16,7 +16,8 @@ is that you can retrieve updates to the assets easily.
   - Change the picture directory to point to the /pics folder.
   - Change the card database path to /db/cards.xml, and the token database path
     to /db/tokens.xml
-  - Optionally, change the card back to /card_back.jpg
+  - Optionally, select a card back from the selection available in the
+    /card_backs directory.
 1. Connect to the woogerworks server to play. (Note that Cockatrice is intended
    for playing Magic: the Gathering. Arrange games with friends through other
    means of communication.)
