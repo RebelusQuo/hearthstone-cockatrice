@@ -2183,7 +2183,7 @@
     <card>
       <name>Leeroy Jenkins</name>
       <set muId="EX1_116">Neutral</set>
-      <manacost>4</manacost>
+      <manacost>5</manacost>
       <type>Legendary Minion</type>
       <text>Charge. Battlecry: Summon two 1/1 Whelps for your opponent.</text>
       <pt>6/2</pt>
@@ -3519,10 +3519,10 @@ Hero Power: Summon a 6/6 Infernal.</text>
     <card>
       <name>Starving Buzzard</name>
       <set muId="CS2_237">Hunter</set>
-      <manacost>2</manacost>
+      <manacost>5</manacost>
       <type>Minion - Beast</type>
       <text>Whenever you summon a Beast, draw a card.</text>
-      <pt>2/1</pt>
+      <pt>3/2</pt>
       <tablerow>2</tablerow>
     </card>
     <card>
